@@ -27,7 +27,7 @@ execute:
 
 (1) To examine the translation aptitude of Spanish-English bilinguals who act as nonprofessional translators, specifically language brokers; 
 
-(2) To better understand the human-computer interaction of nonprofessional translators with LLMs, focusing on task delegation patterns, prompt-engineering strategies, and natural post-editing ability. 
+(2) To better understand the human-computer interaction of nonprofessional translators with LLMs, focusing on task delegation patterns, prompt engineering strategies, and natural post editing ability. 
 
 ## Translation Aptitude to Translation Competence
 
