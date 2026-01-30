@@ -88,8 +88,6 @@ execute:
 
 - **HCI** is the interaction between people, computers, and tasks (O'Brien, 2012)
 
-- With **Intelligence amplification (IA)** humans remain the central decision-makers and AI is a tools (Shneiderman, 2022)
-
 - MT use is increasing (~1B users), yet few users have formal translation training (~0.03%) (Nurminen, 2021)
 
 - Nonprofessional translators a major user group and report needing AI literacy (Bowker, 2025)
@@ -138,9 +136,9 @@ execute:
 ## Motivation 
 * Limited research on nonprofessional translators’ translation performance, particularly language brokers.
 
-* Limited research on how nonprofessional translators post-edit LLM output.
+* Limited research on how nonprofessional translators post edit and interact with LLM output.
 
-* No existing research examining language brokers’ HCI with LLMs (task delegation, prompting, and post-editing).
+* No existing research examining language brokers’ HCI with LLMs (task delegation, prompting, and post editing).
 
 ## Adapted Translator Measurement 
 ![](images/table1.png){width=70%}
@@ -210,27 +208,28 @@ A minimum of 60 adult Spanish-English bilinguals.
 :::{.columns}
 ::: {.column width="45%"}
 
-**Forced Choice Cognate Task** 
+**Forced-Choice Cognate Task**
+<div style="font-size:0.9em;">
 
-<small>
+Identify and select context-appropriate meanings for  
+Spanish-English cognates
 
-  - Identify and select context-appropriate meanings for    Spanish-English cognates
+</div>
 
-</small>
-
-![](images/task1.png){width=70%}
+![](images/task1.png){width=95%}
 
 :::
 ::: {.column width="55%"}
 
 **Human Translation Task**
-<small>
+<div style="font-size:0.9em;">
 
-  - 1 English into Spanish translation task and 1 Spanish     into English translation task (150-word text)
+One English→Spanish and one Spanish→English translation  
+task (≈150 words each)
 
-</small>
+</div>
 
-![](images/task2.png){width=70%}
+![](images/task2.png){width=95%}
 
 :::
 :::
