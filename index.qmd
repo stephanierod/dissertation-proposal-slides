@@ -369,16 +369,15 @@ Generalized linear mixed-effects (GLMMs)
 
 **Thank you!** 
 
-<br>
-
 **¡Gracias!**
 
-<br>
-
-![](images/image1.png){width=25%}
-
+![](images/image1.png){width=20%}
 
 <em>How can we better understand the translation aptitude of nonprofessional translators in the age of AI?</em>
+
+
+![](images/qr.png){width=25%}
+
 
 </div>
 
