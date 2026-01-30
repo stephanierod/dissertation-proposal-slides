@@ -1,0 +1,68 @@
+---
+title: "References"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    theme: cosmo
+---
+
+Antonini, R., Torresi, I., Rossato, L., & Cirillo, L. (2017). *Non-professional interpreting and translation*. 
+
+Bowker, L. (2025b). The need for machine translation literacy. In *The Routledge Handbook of Translation Technology and Society* (pp. 436–447). Routledge.
+
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. *Qualitative Research in Psychology, 3*(2), 77–101.
+
+Dorst, A. G., Salmi, L., Daems, J., & Koponen, M. (2025). Machine translation literacy in the age of GenAI. In *Translating and the Computer 46: Proceedings*. 
+
+García, A. M., Ibáñez, A., Huepe, D., Houck, A. L., Michon, M., Lezama, C. G., … Rivera-Rei, Á. (2014). Word reading and translation in bilinguals: The impact of formal and informal translation expertise. *Frontiers in Psychology, 5*, 1302.
+
+Gatti, A., & Graves, S. (2020). Are heritage speakers of Spanish significantly better at speaking than at writing? Results of an experiment on writing and speaking proficiencies—Actual and perceived. *Foreign Language Annals, 53*(4), 920–941.
+
+Harris, B., & Sherwood, B. (1978). Translating as an innate skill. In *Language interpretation and communication* (pp. 155–170). Springer.
+
+Izura, C., Cuetos, F., & Brysbaert, M. (2014). LexTALE-Esp: A test to rapidly and efficiently assess the Spanish vocabulary size. *Psicologica: International Journal of Methodology and Experimental Psychology, 35*(1), 49–66.
+
+Jiménez-Crespo, M. A. (2020). The “technological turn” in translation studies: Are we there yet? A transversal cross-disciplinary approach. *Translation Spaces, 9*(2), 314–341.
+
+Lemhöfer, K., & Broersma, M. (2012). Introducing LexTALE: A quick and valid lexical test for advanced learners of English. *Behavior Research Methods, 44*(2), 325–343.
+
+Li, P., Zhang, F., Yu, A., & Zhao, X. (2020). Language history questionnaire (LHQ3): An enhanced tool for assessing multilingual experience. *Bilingualism: Language and Cognition, 23*, 938–944. https://doi.org/10.1017/S1366728918001153
+
+López, B. G., Lezama, E., & Heredia, D. (2019). Language brokering experience affects feelings toward bilingualism, language knowledge, use, and practices: A qualitative approach. *Hispanic Journal of Behavioral Sciences, 41*(4), 481–503.
+
+Lozano-Argüelles, C., & Gatti, A. (2025). Beyond L2 learners: Evaluating LexTALE-ESP as a proficiency measure for heritage language learners of Spanish. *Languages, 10*(9), 223.
+
+Lu, Q., Qiu, B., Ding, L., Xie, L., & Tao, D. (2023). Error analysis prompting enables human-like translation evaluation in large language models: A case study on ChatGPT. 
+
+Marian, V., Blumenfeld, H. K., & Kaushanskaya, M. (2007). The language experience and proficiency questionnaire (LEAP-Q): Assessing language profiles in bilinguals and multilinguals. *Journal of Speech, Language, and Hearing Research, 50*, 940–967. https://doi.org/10.1044/1092-4388(2007/067)
+
+Martínez-Gómez, A. (2020). Language brokering experience among interpreting students: Pedagogical implications for the development of interpreting competence. *The Interpreter and Translator Trainer, 14*(3), 303–321.
+
+Martínez-Gómez, A. (2021). Feelings about language brokering: The contribution of formal interpreter education. *Interpreting, 23*(1), 127–150.
+
+Montrul, S. (2016). *The acquisition of heritage languages*. Cambridge University Press.
+
+Montrul, S. A., & Polinsky, M. (2022). Introduction—Heritage languages, heritage speakers, heritage linguistics. In *The Cambridge handbook of heritage languages and linguistics* (pp. 1–10). Cambridge University Press.
+
+Nurminen, M. (2021). Investigating the influence of context in the use and reception of raw machine translation.
+
+O’Brien, S. (2012). Translation as human–computer interaction. *Translation Spaces, 1*(1), 101–122.
+
+PACTE Group. (2000). Acquiring translation competence: Hypotheses and methodological problems in a research project. *Investigación y Traducción, 2*, 99–106.
+
+Polinsky, M. (2023). Heritage language gaps. In *[Add book title if needed]*. https://doi.org/10.1093/9780191987731.003.0006
+
+Tse, L. (1995). Language brokering among Latino adolescents: Prevalence, attitudes, and school performance. *Hispanic Journal of Behavioral Sciences, 17*(2), 180–193.
+
+Whyatt, B. (2017). We are all translators: Investigating the human ability to translate from a developmental perspective. https://doi.org/10.1075/btl.129.03why
+
+Zhan, Y. T., & Hsu, H. T. (2024). A preliminary study on exploring the use of translation apps and post-editing strategies of university students. *Engineering Proceedings, 74*(1), 33.
+
+Zhang, J., & Doherty, S. (2025). Investigating novice translation students’ AI literacy in translation education. *The Interpreter and Translator Trainer, 19*(3–4), 234–253.
+
+Zhang, J., Zhao, X., & Doherty, S. (2025, June). Prompt engineering in translation: How do student translators leverage GenAI tools for translation tasks. In *Proceedings of Machine Translation Summit XX: Volume 1* (pp. 420–431).
+
+Zhang, H., & Torres-Hostench, O. (2022). Training in machine translation post-editing for foreign language students.
+
+---
