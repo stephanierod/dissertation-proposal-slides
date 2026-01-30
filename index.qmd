@@ -238,13 +238,13 @@ A minimum of 60 adult Spanish-English bilinguals.
 
 ### Research Questions 
 <span style="font-size: 0.8em;">
-1. How does accuracy in selecting correct cognates  correlate with translation direction (EN→ES / ES→EN)?  
+1. How does performance in the FCT correlate with translation direction (EN→ES / ES→EN)?  
 
 <span style="font-size: 0.8em;">
-2. Which error types occur most frequently in participants’ bidirectional translations?   
+2. Which error types occur most frequently in participants’ translations?   
 
 <span style="font-size: 0.8em;">
-3. How do bidirectional LexTALE scores, bilingual profile, and language brokering experience correlate with FCT accuracy and HT error rates and error-type distributions? 
+3. How do LexTALE scores, bilingual profile, and language brokering experience correlate with FCT accuracy and HT error rates and error-type distributions? 
 
 </div>
 
