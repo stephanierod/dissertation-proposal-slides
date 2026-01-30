@@ -14,11 +14,11 @@ execute:
 ---
 
 ## Today's Overview
-- Why this study?
+- Why this project?
 - What is "Translation Aptitude"?
 - Who are "Non-professional translators"?
 - How do language use and perception shape aptitude?
-- How is the study designed to test these questions?
+- How are the studies designed to test these questions?
 - What does this dissertation contribute? 
 
 ## Overall Aims 
@@ -65,7 +65,7 @@ execute:
 
 <div style="font-size:0.8em;">
 
-**HL speakers show** may lack metalinguistic awareness and literacy in the heritage language (Montrul, 2022; Polinsky, 2023).
+**HL speakers** may lack metalinguistic awareness and literacy in the heritage language (Montrul, 2022; Polinsky, 2023).
 
 **Language brokers show:**
 
