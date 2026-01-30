@@ -15,8 +15,8 @@ execute:
 
 ## Today's Overview
 - Why this study?
-- What is Translation Aptitude?
-- Who are Non-professional Translators?
+- What is "Translation Aptitude"?
+- Who are "Non-professional translators"?
 - How do language use and perception shape aptitude?
 - How is the study designed to test these questions?
 - What does this dissertation contribute? 
@@ -25,25 +25,25 @@ execute:
 
 **The project has two primary aims:**
 
-(1) To examine the translation aptitude of Spanish-English bilinguals who act as nonprofessional translators, specifically language brokers; 
+(1) To examine the translation aptitude of Spanish-English bilinguals who act as nonprofessional translators, specifically language brokers, in the AI era; 
 
 (2) To better understand the human-computer interaction of nonprofessional translators with LLMs, focusing on task delegation patterns, prompt engineering strategies, and natural post editing ability. 
 
-## Translation Aptitude to Translation Competence
+## Foundations of Translation Ability
 
 - **Translation Aptitude** is a natural human capacity for overcoming communication barriers (Whyatt, 2017).
 
 - Angelelli (2009) designed rubric to assess translation and measure translation ability.
 
-- **Translation Competence** is “the underlying system of knowledge and skills needed to be able to translate” (PACTE, 2017).
+- **Translation Competence** is “the underlying system of knowledge and skills needed to be able to translate” (PACTE, 2000, p. 100).
 
 ## Who are Non-professional Translators? 
-
-- Growth of the U.S. Spanish-speaking population has increased the number of **heritage Spanish speakers** (Leeman & Driver, 2021; Lozano-Argüelles & Martínez-Gómez, 2025).
 
 - **Natural Translation** (Harris and Sherwood, 1978) or **Non-professional Translation** (Antonini, 2017) performed in everyday circumstances by bilinguals who are untrained. 
 
 - **Language brokers** are bilinguals who translate and/or interpret within their communities (Tse, 1995).
+
+- U.S. Context: growth of Spanish-speaking communities has increased the number of heritage Spanish speakers (Lozano-Argüelles & Martínez-Gómez, 2025, many of whom broker language in daily life (Martínez-Gómez, 2021).
 
 ## Language Use and Development
 
@@ -84,7 +84,11 @@ execute:
 
 ## Translation Technologies
 
-- **Technological Turn** has occurred in translation, resulting in human–computer interaction (HCI) (Jiménez-Crespo, 2020).
+- **Technological Turn** has occurred in translation, resulting in human–computer interaction (HCI) (Jiménez-Crespo, 2020)
+
+- **HCI** is the interaction between people, computers, and tasks (O'Brien, 2012)
+
+- With **Intelligence amplification (IA)** humans remain the central decision-makers and AI is a tools (Shneiderman, 2022)
 
 - MT use is increasing (~1B users), yet few users have formal translation training (~0.03%) (Nurminen, 2021)
 
@@ -202,11 +206,34 @@ A minimum of 60 adult Spanish-English bilinguals.
 3. How does bilingual language proficiency (bidirectional) based on the LexTALE, correlate with participants’ translation performance?  
 
 ## Materials 
-- **Forced Choice Cognate Task** 
+
+:::{.columns}
+::: {.column width="45%"}
+
+**Forced Choice Cognate Task** 
+
+<small>
+
   - Identify and select context-appropriate meanings for    Spanish-English cognates
-  
-- **Human Translation Task**
+
+</small>
+
+![](images/task1.png){width=70%}
+
+:::
+::: {.column width="55%"}
+
+**Human Translation Task**
+<small>
+
   - 1 English into Spanish translation task and 1 Spanish     into English translation task (150-word text)
+
+</small>
+
+![](images/task2.png){width=70%}
+
+:::
+:::
   
 ## Statistical Analysis 
 Generalized linear mixed-effects (GLMMs) 
