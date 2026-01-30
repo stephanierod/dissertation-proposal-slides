@@ -155,7 +155,7 @@ execute:
 - Untrained participants struggled to detect and correct MT errors (Zhang & Torres-Hostench, 2022).
 - Untrained participants failed to identify or correct errors related to cultural references, metaphorical expressions, or punctuation (Zhan & Hsu, 2024).
 - Syntactic errors were more readily identified and corrected, while errors involving lexical or syntactic ambiguity were less consistently detected (Kim, 2025).
-- Most frequently overlooked errors included accuracy, word order, official names, preposition choice, omissions, and formal register.
+- Most frequently overlooked errors included metaphors, idiomatic expressions, word order, official names, omissions, register.
 
 </div>
 
@@ -339,7 +339,7 @@ Generalized linear mixed-effects (GLMMs)
 :::
 :::
 
-## Data Analysis 
+## Data Coding
 ![](images/table2.png){width=90%}
 
 ## Statistical Analysis 
