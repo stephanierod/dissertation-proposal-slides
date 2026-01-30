@@ -25,11 +25,17 @@ execute:
 
 **The project has two primary aims:**
 
+<div style="font-size:0.8em;">
+
 (1) To examine the translation aptitude of Spanish-English bilinguals who act as nonprofessional translators, specifically language brokers, in the AI era; 
 
 (2) To better understand the human-computer interaction of nonprofessional translators with LLMs, focusing on task delegation patterns, prompt engineering strategies, and natural post editing ability. 
 
+</div>
+
 ## Foundations of Translation Ability
+
+<div style="font-size:0.9em;">
 
 - **Translation Aptitude** is a natural human capacity for overcoming communication barriers (Whyatt, 2017).
 
@@ -37,88 +43,107 @@ execute:
 
 - **Translation Competence** is “the underlying system of knowledge and skills needed to be able to translate” (PACTE, 2000, p. 100).
 
+</div>
+
 ## Who are Non-professional Translators? 
 
-- **Natural Translation** (Harris and Sherwood, 1978) or **Non-professional Translation** (Antonini, 2017) performed in everyday circumstances by bilinguals who are untrained. 
+<div style="font-size:0.8em;">
 
-- **Language brokers** are bilinguals who translate and/or interpret within their communities (Tse, 1995).
+- **Natural Translation** (Harris and Sherwood, 1978) or **Non-professional Translation** (Antonini et al., 2017) performed in everyday circumstances by bilinguals who are untrained. 
 
-- Growth of Spanish-speaking communities in U.S. led to increased number of **heritage Spanish speakers** (Lozano-Argüelles & Martínez-Gómez, 2025), 
-  - many with brokering experience (Martínez-Gómez, 2021).
+- **Language brokers** are bilinguals who translate and/or interpret within their communities (Tse, 1995)
+
+- Growth of Spanish-speaking communities (≈ 42 million) in the United States (U.S. Census Bureau, 2020) leads to more **heritage Spanish speakers** (Montrul, 2016) 
+  - many with brokering experience (Martínez-Gómez, 2021)
+  
+</div>
 
 ## Language Use and Development
 
 :::{.columns}
 ::: {.column width="65%"}
 
-**HL speakers show** reduced metalinguistic awareness and literacy in the heritage language (Montrul, 2022; Polinsky, 2023).
+<div style="font-size:0.8em;">
+
+**HL speakers show** may lack metalinguistic awareness and literacy in the heritage language (Montrul, 2022; Polinsky, 2023).
 
 **Language brokers show:**
-<small>
 
 - Enhanced lexical/semantic processing (García et al., 2014)
 - Stronger problem-solving skills (López et al., 2019)
 - Faster validation of idiomatic renderings (Vaid & López, 2014)
 - Greater convergence across languages
 
-</small>
+</div>
 
 :::
 ::: {.column width="35%"}
 
 **Strategies:**
 
+<div style="font-size:0.7em;">
+
 - Borrowing
 - Calquing
 - Circumlocution
+
+</div>
 
 :::
 :::
 
 ## Language Perception 
 
-- HL speakers reported lower confidence in their Spanish abilities, even when their proficiency is high (Lozano-Argüelles, 2023). 
+<div style="font-size:0.9em;">
 
-- More brokering experience contributed to confidence in both languages (López et al., 2019)
+- HL speakers evidenced to overestimate their proficiency  (Lozano-Argüelles and Gatti, 2025) and higher proficiency speakers tend to be more accurate in evaluating their abilities (Gatti and Graves, 2020)
 
-- Brokering experience perceived to help maintain HL Spanish proficiency (Kim et al., 2024). 
+- More brokering experience contributed to confidence in both languages and perceived to help maintain HL Spanish proficiency (López et al., 2019)
+
+</div>
 
 ## Translation Technologies
+
+<div style="font-size:0.9em;">
 
 - **Technological Turn** has occurred in translation, resulting in human–computer interaction (HCI) (Jiménez-Crespo, 2020)
 
 - **HCI** is the interaction between people, computers, and tasks (O'Brien, 2012)
 
-- MT use is increasing (~1B users), yet few users have formal translation training (~0.03%) (Nurminen, 2021)
+- MT use is increasing (≈ 1B users), yet few users have formal translation training (≈ 0.03%) (Nurminen, 2021)
 
 - Nonprofessional translators a major user group and report needing AI literacy (Bowker, 2025)
+
+</div>
 
 ## Task Delegation and Prompt Behavior
 
 :::{.columns}
 ::: {.column width="45%"}
 
+<div style="font-size:0.7em;">
+
 **Task Delegation**
-<small>
 
 - *Transfer* and *revision* are the most frequently delegated tasks
 - Observed behaviors reflect intuitive and uninformed practices (Zhang et al., 2025)
 
-</small>
+</div>
 
 
 :::
 ::: {.column width="55%"}
 
+<div style="font-size:0.7em;">
+
 **Prompting Behavior**
-<small>
 
 - Included bilingual input, typographical errors, and colloquialisms
 - Frequently lacked explicit task descriptions or contextual information
 - Many sessions ended after a single round of prompting
 - ChatGPT performance improves when prompts include context and chain-of-thought guidance (Lu et al., 2023)
 
-</small>
+</div>
 
 :::
 :::
@@ -147,7 +172,9 @@ execute:
 ## Participants 
 A minimum of 60 adult Spanish-English bilinguals.
 
-*Requirement to participate:* 
+### Requirement to participate: 
+
+<div style="font-size:0.8em;">
 
 (1) 18 years of age or older, 
 (2) Born and/or raised in the United States, 
@@ -155,8 +182,12 @@ A minimum of 60 adult Spanish-English bilinguals.
 (4) Currently reside in the United States, and 
 (5) History of language brokering in childhood or adolescence. 
 
+</div>
+
 ## Study 1
 <span style="font-size: 0.8em;"> **Goal:** Examine participants bilingual proficiency, AI use, and language brokering experience.
+
+<div style="font-size:0.9em;">
 
 ### Research Questions 
 <span style="font-size: 0.8em;">
@@ -168,9 +199,11 @@ A minimum of 60 adult Spanish-English bilinguals.
 <span style="font-size: 0.8em;">
 3. How do participants use AI, specifically LLMs, when language brokering?
 
+</div>
+
 ## Materials 
 
-<div style="font-size:0.9em;">
+<div style="font-size:0.8em;">
 
 - **Bilingualism, Brokering, and AI-Translation Questionnaire**
   - *Part 1:* Adapted LHQ-3 (Li et al., 2020) and LEAP-Q (Marian et al., 2007)
@@ -184,25 +217,36 @@ A minimum of 60 adult Spanish-English bilinguals.
 
 ## Statistical Analysis 
 
+<div style="font-size:0.8em;">
+
 **LexTALE scores:**
-  Linear mixed-effects regression model (lmer/ (Bates et    al., 2015), lmerTest (Kuznetsova et al., 2017)
+
+  - Linear mixed-effects models (LMMs)
+  - Formula: score ~ language + bilingual profile +           brokering experience
   
-**Open-ended responses:**
-  Coded using thematic content analysis
-  (Braun & Clarke, 2006)
+**Questionnaire:**
+  
+  - Likert scale (0-100)
+  - Open ended responses - Coded using thematic content       analysis (Braun & Clarke, 2006)
+
+</div>
   
 ## Study 2
 <span style="font-size: 0.8em;"> **Goal:** Examine participants natural translation ability.
 
+<div style="font-size:0.9em;">
+
 ### Research Questions 
 <span style="font-size: 0.8em;">
-1. Which semantic and pragmatic features (e.g., register, cognates, idiomatic phrases) are most prone to error in the translations produced by participants?    
+1. How does accuracy in selecting correct cognates  correlate with translation direction (EN→ES / ES→EN)?  
 
 <span style="font-size: 0.8em;">
-2. How does brokering experience relate to participants’ handling of semantic-pragmatic features during translation?     
+2. Which error types occur most frequently in participants’ bidirectional translations?   
 
 <span style="font-size: 0.8em;">
-3. How does bilingual language proficiency (bidirectional) based on the LexTALE, correlate with participants’ translation performance?  
+3. How do bidirectional LexTALE scores, bilingual profile, and language brokering experience correlate with FCT accuracy and HT error rates and error-type distributions? 
+
+</div>
 
 ## Materials 
 
@@ -236,19 +280,26 @@ task (≈150 words each)
 :::
   
 ## Statistical Analysis 
+
+<div style="font-size:0.9em;">
+
 Generalized linear mixed-effects (GLMMs) 
 
 **Forced Choice Cognate Task**
 
-  - Code for accuracy 
+  - Formula: accuracy ~ direction + LexTALE scores+           brokering experience +     bilingual profile 
   
 **Human Translation Task** 
 
-  - Coding: Segment-level error annotation 
-    (Calques, false cognates, literal renderings)
+  - Formula: error count ~ direction + LexTALE scores +       brokering experience + bilingual profile
+  - Formula: error type ~ direction + LexTALE scores +        brokering experience + bilingual profile
+  
+</div>
 
 ## Study 3
 <span style="font-size: 0.8em;"> **Goal:** Examine participants human-computer interaction. 
+
+<div style="font-size:0.9em;">
 
 ### Research Questions 
 <span style="font-size: 0.8em;">
@@ -260,7 +311,11 @@ Generalized linear mixed-effects (GLMMs)
 <span style="font-size: 0.8em;">
 3. How effectively do participants identify and correct errors in LLM-generated translations, and which types of errors are most and least frequently detected during post-editing?  
 
+</div>
+
 ## Materials
+
+<div style="font-size:0.9em;">
 
 - **Human-Computer Interaction Task**
 
@@ -269,6 +324,8 @@ Generalized linear mixed-effects (GLMMs)
 - **Post-editing of MT Task**
 
   - Post-edit English into Spanish AI-generated              translation (200 words).
+  
+</div>
   
 ## Data Coding 
 
@@ -287,15 +344,22 @@ Generalized linear mixed-effects (GLMMs)
 
 ## Statistical Analysis 
 
-Mixed methods: qualitative + quantitative analyses
+<div style="font-size:0.7em;">
 
-**Task Delegation**
+**Task Delegation:** Code using Translation Tasks Typology
 
-  - Code using Translation Tasks Typology 
+  - Formula: task delegated ~ LexTALE scores + bilingual      profile + brokering experience + AI use 
   
-**Prompt Engineering**
+**Prompt Engineering:** Code using LLM Prompting Strategies and Discourse Features
 
-  - Code using LLM Prompting Strategies and Discourse        Features
+  - Formula 1: strategy ~ LexTALE scores + bilingual               profile + brokering experience + AI use 
+  - Formula 2: discourse feature ~ LexTALE Spa + bilingual               profile + brokering experience + AI use 
+  
+**Post-editing:** Code errors identified and error type
+
+  - Formula: PE Score ~ LexTALE scores  + bilingual           profile + brokering experience + AI use 
+  
+</div>
 
 ## 
 ::: {.hide-title}
