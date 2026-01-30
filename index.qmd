@@ -43,7 +43,8 @@ execute:
 
 - **Language brokers** are bilinguals who translate and/or interpret within their communities (Tse, 1995).
 
-- U.S. Context: growth of Spanish-speaking communities has increased the number of heritage Spanish speakers (Lozano-Argüelles & Martínez-Gómez, 2025, many of whom broker language in daily life (Martínez-Gómez, 2021).
+- Growth of Spanish-speaking communities in U.S. led to increased number of **heritage Spanish speakers** (Lozano-Argüelles & Martínez-Gómez, 2025), 
+  - many with brokering experience (Martínez-Gómez, 2021).
 
 ## Language Use and Development
 
